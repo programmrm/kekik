@@ -1257,20 +1257,20 @@
         "name": "SpankBang"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi.info&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.superfilmgeldi4.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/programmrm/kekik",
         "fileSize": 18277,
         "status": 1,
         "language": "tr",
         "authors": [
-            "keyiflerolsun"
+            "keyifli"
         ],
         "tvTypes": [
             "Movie"
         ],
         "version": 9,
-        "internalName": "SuperFilmGeldi",
+        "internalName": "Super_Film_Geldi",
         "description": "Hd film izliyerek arkada\u015flar\u0131n\u0131zla ve sevdiklerinizle iyi bir vakit ge\u00e7irmek istiyorsan\u0131z a\u00e7\u0131n bir film e\u011flenmeye bak\u0131n. Bilim kurgu filmleri, a\u015fk drama vah\u015fet a\u015fk romantik s\u0131rad\u0131\u015f\u0131 korku filmlerini izle.",
         "url": "https://raw.githubusercontent.com/programmrm/kekik/builds/SuperFilmGeldi.cs3",
         "name": "SuperFilmGeldi"
